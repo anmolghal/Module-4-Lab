@@ -1,0 +1,6 @@
+POST /books
+{
+  "book_name": "1984",
+  "author": "George Orwell",
+  "publisher": "Secker & Warburg"
+}
